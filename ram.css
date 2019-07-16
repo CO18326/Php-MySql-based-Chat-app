@@ -1,0 +1,24 @@
+#box1{
+background: white;
+
+border-radius: 50px ;
+}
+
+.bell{
+	background: white;
+
+    border-radius: 50px ;}
+
+.in1{
+	margin-top:3px;
+	width:200px;
+	padding: 5px;
+	border-radius: 25px blue;
+}
+.b1{
+	
+	width:200px;
+	padding: 5px;
+	border-radius: 25px blue;
+    margin: 23px;
+	}
